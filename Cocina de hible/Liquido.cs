@@ -8,5 +8,17 @@ namespace Cocina_de_hible
 {
     class Liquido : Ingrediente
     {
+        public enum Sabor 
+        {
+            Salado,
+            Agrio,
+            Insaboro
+
+        }
+        public enum Tipo { 
+            Agua,
+            Aceite,
+            Vinagre
+        }
     }
 }

@@ -8,5 +8,13 @@ namespace Cocina_de_hible
 {
     class Verdura : Ingrediente
     {
+        public bool cortado = false;
+        public enum Tipo {
+            Apio,
+            Esparrago,
+            Espinaca,
+            Lechuga
+
+        }
     }
 }
