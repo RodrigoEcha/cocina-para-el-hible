@@ -8,5 +8,6 @@ namespace Cocina_de_hible
 {
     class Ingrediente
     {
+        public string Nombre;
     }
 }

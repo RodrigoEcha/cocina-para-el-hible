@@ -8,5 +8,9 @@ namespace Cocina_de_hible
 {
     class Cuchillo : Utensilio
     {
+        public void Cortar(Ingrediente ingrediente)
+        {
+
+        }
     }
 }

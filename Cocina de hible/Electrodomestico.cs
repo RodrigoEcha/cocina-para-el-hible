@@ -8,5 +8,7 @@ namespace Cocina_de_hible
 {
     class Electrodomestico : Herramienta
     {
+        public bool conectado = true;
+        public int usosRestantes = 10;
     }
 }

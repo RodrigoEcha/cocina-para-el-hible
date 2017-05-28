@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Cocina_de_hible
 {
-    class Licuadora
+    class Licuadora :Electrodomestico
     {
+        public void Licuar(Ingrediente[] ingredientes)
+        {
+        }
+
     }
 }

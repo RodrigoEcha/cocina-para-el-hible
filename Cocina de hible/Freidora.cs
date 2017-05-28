@@ -8,5 +8,8 @@ namespace Cocina_de_hible
 {
     class Freidora : Utensilio
     {
+        public void Freir (Ingrediente ingrediente) {
+            
+        }
     }
 }

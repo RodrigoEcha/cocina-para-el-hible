@@ -8,5 +8,6 @@ namespace Cocina_de_hible
 {
     class Herramienta
     {
+        public String name;
     }
 }

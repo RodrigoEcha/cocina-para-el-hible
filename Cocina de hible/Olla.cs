@@ -8,5 +8,9 @@ namespace Cocina_de_hible
 {
     class Olla : Utensilio
     {
+        public void Coccion(Ingrediente ingrdiente)  { 
+            
+
+        }
     }
 }

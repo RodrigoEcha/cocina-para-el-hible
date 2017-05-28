@@ -8,5 +8,14 @@ namespace Cocina_de_hible
 {
     class Refrigeradora
     {
+        public void Guardar(Ingrediente ingrediente)
+        {
+
+        }
+
+        public Ingrediente Sacar(Ingrediente ingrediente)
+        {
+            return null;
+        }
     }
 }
